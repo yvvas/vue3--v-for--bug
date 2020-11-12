@@ -1,0 +1,15 @@
+{
+    "name": "test-component",
+    "main": "src/index.js",
+    "peerDependencies": {
+        "@babel/core": "^7.12.3",
+        "vue": "^3.0.0",
+        "vue-loader": "^15.9.5"
+    },
+    "version": "0.1.0",
+    "devDependencies": {
+        "@babel/core": "^7.12.3",
+        "vue": "^3.0.0",
+        "vue-loader": "^15.9.5"
+    }
+}
